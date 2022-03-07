@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SavageryG
+- 👋 Hi, I’m Teddy.
 - 👀 I’m interested in game dev and web design
 - 🌱 I’m currently learning web design
 - 💞️ I’m looking to collaborate on learning how to code games.
